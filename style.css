@@ -1,0 +1,90 @@
+*{
+    margin: 0px;
+    padding: 10px;
+}
+body{
+    background-image: url("pic1.jpg");
+    background-blend-mode: lighten;
+    
+}
+h2{
+    text-align: center;
+    padding: 30px;
+    font-family: Helvetica;
+}
+.register{
+    background-color: rgb(21, 31, 39, 0.52);
+    width: 400px;
+    margin: 0px 0px 0px 480px;
+    color:wheat;
+    font-size: 20px;
+    padding: 20px;
+    border-radius: 10px;
+}
+#register{
+    margin-left: 50px;
+}
+
+label{
+    color: #dceaef;
+    font-family: Helvetica;
+    font-size: 18px;
+    font-style: normal;
+}
+#name{
+    width: 300px;
+    border:none;
+    border-radius: 10px;
+    outline: 0;
+    padding: 7px;
+    height: 35px;
+}
+#ph{
+    width: 65px;
+    padding: 7px;
+    border: none;
+    border-radius: 10px;
+    outline: 0;
+    height: 35px;
+}
+#num{
+    width: 240px;
+    padding: 7px;
+    border: none;
+    border-radius: 10px;
+    outline:0;
+    height: 35px;
+}
+.dropdown{
+    width: 90px;
+    padding: 7px;
+    border: none;
+    border-radius: 10px;
+    outline:0;
+    height: 35px;
+}
+#male{
+    color:#dceaef;
+    font-family: Helvetica;
+    font-size: 18px;
+    font-style: normal;
+}
+#mar{
+    color:#dceaef;
+    font-family: Helvetica;
+    font-size: 18px;
+    font-style: normal;
+}
+#sub{
+    font-family: Helvetica;
+    font-size: 18px;
+    font-style: normal;
+    width: 200px;
+    padding: 7px;
+    border: none;
+    border-radius: 10px;
+    outline:0;
+    height: 35px;
+    background-color: #07ba1f;
+
+}
